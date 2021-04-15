@@ -1,0 +1,28 @@
+@media only screen and (max-width:1126px) { 
+	.header{
+        background-size: cover;
+    }
+    .logo_header img {
+        width: 300px;
+    }
+    .content_1{
+        justify-content: center;
+    }
+}
+
+@media only screen and (max-width:792px) {
+
+    div.product {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        padding: 10px;
+ 
+    }
+    div.container-1{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+
+}
